@@ -2,46 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d656319-7ef2-47e7-abf9-850d0a6917ac" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/java thread" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/ReadData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Read_Thread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/WriteData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Consumer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadProducter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Consumer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/MyStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Producter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Add.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Run.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Subtract.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadAdd.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadSubtract.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ValueObject.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -88,8 +48,8 @@
       <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -266,9 +226,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="882" />
-    <option name="y" value="206" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -589,15 +547,23 @@
       <updated>1514861253865</updated>
       <workItem from="1514861256835" duration="14679000" />
       <workItem from="1514967185097" duration="1264000" />
-      <workItem from="1515158522571" duration="121000" />
+      <workItem from="1515158522571" duration="202000" />
     </task>
+    <task id="LOCAL-00001" summary="third">
+      <created>1515158686773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515158686773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16064000" />
+    <option name="totallyTimeSpent" value="16145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="882" y="206" width="1920" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -613,7 +579,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2931596" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29063508" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27987084" sideWeight="0.50598294" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -668,6 +634,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="third" />
+    <option name="LAST_COMMIT_MESSAGE" value="third" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1073,8 +1043,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
