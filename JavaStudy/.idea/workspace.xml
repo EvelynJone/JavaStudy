@@ -2,10 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d656319-7ef2-47e7-abf9-850d0a6917ac" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/java thread" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/MyThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/ReadData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/ReadThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/WriteData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/WriteThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/reader/ReadData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/reader/Read_Thread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/reader/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/reader/WriteData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/Consumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/Product.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadProducter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Consumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/MyStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Producter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/Add.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/Subtract.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/ThreadAdd.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/ThreadSubtract.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/com/zhaoxl/thread/third/wait/ValueObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/jdk8/function/FunctionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/jdk8/function/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/performance/optimization/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/java/regular/RegularPattern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/test/java/com/zhaoxl/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/basic/src/test/java/com/zhaoxl/JIZHUITest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jvm/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/MemoryAllocationExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/memoryAllocation.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/thread/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/java thread" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/ReadData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Read_Thread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/WriteData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Consumer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Product.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadProducter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Consumer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/MyStack.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Producter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Add.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Subtract.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadAdd.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadSubtract.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ValueObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdk8/function/FunctionDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jdk8/function/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/performance/optimization/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/regular/RegularPattern.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zhaoxl/AppTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zhaoxl/JIZHUITest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/dbtool/BackupA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/dbtool/BackupB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/dbtool/DBTools.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/dbtool/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/MyThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/TestJoin.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/exception/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/exception/ThreadA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/exception/ThreadB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/join/exception/ThreadC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/ReadData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/ReadThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/WriteData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/WriteThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/reader/ReadData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/reader/Read_Thread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/reader/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/reader/WriteData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/Product.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/ThreadProducter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/MyStack.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/Producter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/prodconsu/stack/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/Add.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/Run.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/Subtract.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/ThreadAdd.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/ThreadSubtract.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhaoxl/thread/third/wait/ValueObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zhaoxl/AppTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../springclouddemo" afterPath="$PROJECT_DIR$/../springclouddemo" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/basic/target/" />
+    <ignored path="$PROJECT_DIR$/jvm/target/" />
+    <ignored path="$PROJECT_DIR$/thread/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,121 +164,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DBTools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestJoin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-              <folding>
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackupA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackupB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Add.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadSubtract.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadAdd.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Run.java" />
@@ -187,6 +221,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk8/function/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk8/function/FunctionDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/regular/RegularPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/performance/optimization/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zhaoxl/JIZHUITest.java" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/Bean.java" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memoryAllocation.md" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/MemoryAllocationExample.java" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/allocation/memoryAllocation.md" />
+        <option value="$PROJECT_DIR$/thread/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/memoryAllocation.md" />
       </list>
     </option>
   </component>
@@ -227,8 +275,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -248,9 +298,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,58 +311,74 @@
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zhaoxl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="join" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,8 +389,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\gitProject\mine\JavaStudy\jvm\src\main\java\com\evelyn\jvm" />
+      <recent name="F:\gitProject\mine\JavaStudy\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.zhaoxl.thread.third.dbtool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gitProject\mine\JavaStudy\jvm\src\main\java\com\evelyn\jvm\memory" />
+      <recent name="F:\gitProject\mine\JavaStudy\jvm\src\main\java\com\evelyn\jvm\memory\allocation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,21 +413,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Application.MemoryAllocationExample">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MemoryAllocationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.zhaoxl.thread.third.pipe.*" />
+          <option name="PATTERN" value="com.evelyn.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.thread.third.pipe.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.evelyn.jvm.MemoryAllocationExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jvm" />
+      <envs />
+    </configuration>
+    <configuration name="RegularPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="regular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="regular.RegularPattern" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -365,71 +458,14 @@
       <module name="JavaStudy" />
       <envs />
     </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.zhaoxl.thread.third.pipe.reader.*" />
+          <option name="PATTERN" value="performance.optimization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.thread.third.pipe.reader.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-    </configuration>
-    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhaoxl.thread.third.dbtool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.thread.third.dbtool.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-    </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhaoxl.thread.third.join.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.thread.third.join.exception.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStudy" />
-      <envs />
-    </configuration>
-    <configuration name="TestJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhaoxl.thread.third.join.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.thread.third.join.TestJoin" />
+      <option name="MAIN_CLASS_NAME" value="performance.optimization.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -454,6 +490,56 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="JIZHUITest.doTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaStudy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zhaoxl" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.JIZHUITest" />
+      <option name="METHOD_NAME" value="doTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JIZHUITest.doTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zhaoxl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaStudy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zhaoxl" />
+      <option name="MAIN_CLASS_NAME" value="com.zhaoxl.JIZHUITest" />
+      <option name="METHOD_NAME" value="doTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -516,19 +602,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Run (3)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Run (4)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Run (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestJoin" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RegularPattern" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.JIZHUITest.doTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.JIZHUITest.doTest2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MemoryAllocationExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Run" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestJoin" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Run (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Run (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Run (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MemoryAllocationExample" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JIZHUITest.doTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.JIZHUITest.doTest2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RegularPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -548,6 +634,12 @@
       <workItem from="1514861256835" duration="14679000" />
       <workItem from="1514967185097" duration="1264000" />
       <workItem from="1515158522571" duration="283000" />
+      <workItem from="1526283632118" duration="2944000" />
+      <workItem from="1526988378961" duration="1419000" />
+      <workItem from="1527050896093" duration="1976000" />
+      <workItem from="1527216876224" duration="226000" />
+      <workItem from="1527217142332" duration="1902000" />
+      <workItem from="1527493582040" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="third">
       <created>1515158686773</created>
@@ -563,15 +655,60 @@
       <option name="project" value="LOCAL" />
       <updated>1515158733767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="log">
+      <created>1526989785070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526989785070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="基准测试：效果不好">
+      <created>1527055024338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527055024338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 45s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 48s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 49s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 52s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 54s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest - 2018.05.23 at 13h 53m 56s.xml">
+      <configuration name="JIZHUITest.doTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest2 - 2018.05.23 at 13h 53m 33s.xml">
+      <configuration name="JIZHUITest.doTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest2 - 2018.05.23 at 13h 53m 37s.xml">
+      <configuration name="JIZHUITest.doTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest2 - 2018.05.23 at 13h 53m 39s.xml">
+      <configuration name="JIZHUITest.doTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JIZHUITest_doTest2 - 2018.05.23 at 13h 53m 41s.xml">
+      <configuration name="JIZHUITest.doTest2" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16226000" />
+    <option name="totallyTimeSpent" value="25037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -587,11 +724,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29063508" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3116254" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27987084" sideWeight="0.50598294" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -618,19 +755,19 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32097334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31402087" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3221321" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3221321" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28471476" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3116254" sideWeight="0.4940171" order="5" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27987084" sideWeight="0.50598294" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -645,414 +782,154 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="log" />
+    <MESSAGE value="基准测试：效果不好" />
+    <MESSAGE value="调整module" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadProducter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ValueObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/MyStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Producter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/WriteData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Read_Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/ReadData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java" />
+    <entry file="jar://D:/Java/1.8/jdk/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="50" column="7" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/function/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/function/FunctionDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
+    <entry file="jar://D:/Java/1.8/jdk/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19798">
+          <caret line="1085" column="19" lean-forward="false" selection-start-line="1085" selection-start-column="19" selection-end-line="1085" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java">
+    <entry file="jar://D:/Java/1.8/jdk/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="11210">
+          <caret line="625" column="0" lean-forward="false" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/regular/RegularPattern.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/performance/optimization/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhaoxl/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhaoxl/JIZHUITest.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="1064">
+          <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java">
+    <entry file="file://$PROJECT_DIR$/basic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java">
+    <entry file="file://$PROJECT_DIR$/jvm/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java">
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/Bean.java" />
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/MemoryAllocationExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java">
+    <entry file="file://$PROJECT_DIR$/thread/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/thread/src/main/java/com/evelyn/jvm/memory/allocation/memoryAllocation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/evelyn/jvm/memory/memoryAllocation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="627">
+            <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/java thread">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadSubtract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ThreadAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/Subtract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/ThreadProducter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/wait/ValueObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/P_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/C_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Producter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/stack/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/prodconsu/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/WriteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/WriteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Writer_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Read_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/ReadData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/pipe/reader/ReadData.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/BackupB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/dbtool/DBTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/TestJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhaoxl/thread/third/join/exception/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
