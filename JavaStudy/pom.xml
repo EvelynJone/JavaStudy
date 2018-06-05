@@ -12,6 +12,7 @@
         <module>basic</module>
         <module>jvm</module>
         <module>thread</module>
+        <module>jdk8</module>
     </modules>
 
     <properties>
@@ -39,6 +40,7 @@
         <logback.version>1.1.7</logback.version>
         <lombok.version>1.16.20</lombok.version>
         <junit.version>4.11</junit.version>
+        <commons-lang3.version>3.6</commons-lang3.version>
     </properties>
 
     <dependencies>
@@ -71,6 +73,12 @@
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
             <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
         </dependency>
 
     </dependencies>
